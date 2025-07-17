@@ -15,11 +15,28 @@ I am a passionate Ruby on Rails developer with a love for building clean, effici
 
 ### 💻 Tech Stack:
 
-| Backend & Databases | Frontend | DevOps & Cloud |
-|---|---|---|
-| <a href="https://ruby-doc.org/3.3.5/"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a> | <a href="https://docs.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a> |
-| <a href="https://guides.rubyonrails.org/"><img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" /></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a> | <a href="https://kubernetes.io/docs/home/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a> |
-| <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /></a> | <a href="https://tailwindcss.com/docs"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a> | <a href="https://cloud.yandex.com/en-ru/docs/"><img src="https://img.shields.io/badge/Yandex.Cloud-FC3F1D?style=for-the-badge&logo=yandex&logoColor=white" /></a> |
-| <a href="https://redis.io/docs/latest/"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a> | |
-| <a href="https://rspec.info/"><img src="https://img.shields.io/badge/RSpec-4B8DBA?style=for-the-badge&logo=rspec&logoColor=white" /></a> | <a href="https://stimulus.hotwired.dev/"><img src="https://img.shields.io/badge/Stimulus-EAB8C9?style=for-the-badge&logo=stimulus&logoColor=black" /></a> | |
-| | <a href="https://hotwired.dev/"><img src="https://img.shields.io/badge/Hotwire-EAB8C9?style=for-the-badge&logo=hotwire&logoColor=black" /></a> | |
+<p align="center">
+  <strong>Backend & Databases:</strong><br>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=plastic&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/RSpec-4B8DBA?style=plastic&logo=rspec&logoColor=white" alt="RSpec" />
+</p>
+
+<p align="center">
+  <strong>Frontend:</strong><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Stimulus-EAB8C9?style=plastic&logo=stimulus&logoColor=black" alt="Stimulus" />
+  <img src="https://img.shields.io/badge/Hotwire-EAB8C9?style=plastic&logo=hotwire&logoColor=black" alt="Hotwire" />
+</p>
+
+<p align="center">
+  <strong>DevOps & Cloud:</strong><br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Yandex.Cloud-FC3F1D?style=plastic&logo=yandex&logoColor=white" alt="Yandex.Cloud" />
+</p>
