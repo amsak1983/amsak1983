@@ -1,7 +1,3 @@
-<h1 align="center">
-  Hey there
-</h1>
-
 ### 💻 Tech Stack:
 
 | Backend & Databases | Frontend | DevOps & Cloud |
