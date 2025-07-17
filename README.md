@@ -1,4 +1,4 @@
-### 💻 My tech Stack:
+### 💻 My Tech Stack:
 
 | Backend & Databases | Frontend | DevOps & Cloud |
 |---|---|---|
