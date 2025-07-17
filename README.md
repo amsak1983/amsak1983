@@ -2,15 +2,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdmajZ0cnEzbXNmejN4eTJwZHZ0aXVjaWZnaWJzZTVsczk3eWR6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9hDxZpt1vZO2/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="your-linkedin-url">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-twitter-url">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
 <h1 align="center">
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -30,7 +21,6 @@ I am a passionate Ruby on Rails developer with a love for building clean, effici
 - 🌱 I’m currently learning more about advanced database optimization and cloud deployment.
 - 👯 I’m looking to collaborate on open-source Rails projects.
 - 💬 Ask me about Ruby, Rails, or anything related to web development!
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
@@ -65,21 +55,3 @@ Here are the technologies I'm proficient in and currently exploring:
 </div>
 
 ---
-
-### :fire: My Stats :
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</div>
-
----
-
-### :trophy: GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight" alt="GitHub Trophies"/>
-</div>
