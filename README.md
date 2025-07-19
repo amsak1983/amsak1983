@@ -1,4 +1,4 @@
-### 💻 My Tech Stack:
+### 💻 My Tech Stack I'm Studying:
 
 | Backend & Databases | Frontend | DevOps & Cloud |
 |---|---|---|
