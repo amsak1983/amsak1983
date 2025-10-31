@@ -2,16 +2,8 @@
 
 ### 🚀 Tech Ecosystem
 
-| Backend Mastery | Frontend Craft | DevOps & Infrastructure |
-|-----------------|----------------|-------------------------|
-| **Languages & Frameworks** | **Web Technologies** | **Cloud & Containerization** |
-| <b>Ruby</b> - Elegant and productive programming | <b>HTML5</b> - Semantic markup | <b>Docker</b> - Containerization expert |
-| <b>Ruby on Rails</b> - Web application framework | <b>CSS3</b> - Responsive styling | <b>Kubernetes</b> - Orchestration specialist |
-| **Databases** | <b>Tailwind CSS</b> - Utility-first styling | <b>Yandex.Cloud</b> - Cloud infrastructure |
-| <b>PostgreSQL</b> - Robust relational database | <b>JavaScript</b> - Dynamic interactions | |
-| <b>Redis</b> - In-memory data store | **Frontend Frameworks** | |
-| **Testing** | <b>Stimulus</b> - Modest JavaScript framework | |
-| <b>RSpec</b> - Behavior-driven testing | <b>Hotwire</b> - Modern web framework | |
+### 💻 My Tech Stack:| Backend & Databases | Frontend | DevOps & Cloud ||---|---|---|| <a href="https://ruby-doc.org/3.3.5/"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a> | <a href="https://docs.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a> || <a href="https://guides.rubyonrails.org/"><img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" /></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a> | <a href="https://kubernetes.io/docs/home/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a> || <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /></a> | <a href="https://tailwindcss.com/docs"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a> | <a href="https://cloud.yandex.com/en-ru/docs/"><img src="https://img.shields.io/badge/Yandex.Cloud-FC3F1D?style=for-the-badge&logo=yandex&logoColor=white" /></a> || <a href="https://redis.io/docs/latest/"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a> | || <a href="https://rspec.info/"><img src="https://img.shields.io/badge/RSpec-4B8DBA?style=for-the-badge&logo=rspec&logoColor=white" /></a> | <a href="https://stimulus.hotwired.dev/"><img src="https://img.shields.io/badge/Stimulus-EAB8C9?style=for-the-badge&logo=stimulus&logoColor=black" /></a> | || | <a href="https://hotwired.dev/"><img src="https://img.shields.io/badge/Hotwire-EAB8C9?style=for-the-badge&logo=hotwire&logoColor=black" /></a> | |
+
 
 <hr>
 
