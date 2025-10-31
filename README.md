@@ -1,6 +1,7 @@
-## 👨‍💻 Full-Stack Web Developer | Ruby on Rails Enthusiast
+  ## 👨‍💻 Full-Stack Web Developer | Ruby on Rails Enthusiast
 
 ### 🚀 Tech Ecosystem
+
 ### 💻 My Tech Stack:
 | Backend & Databases | Frontend | DevOps & Cloud |
 |---|---|---|
@@ -9,7 +10,7 @@
 | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Yandex Cloud](https://img.shields.io/badge/Yandex.Cloud-FC3F1D?style=for-the-badge&logo=yandex&logoColor=white) |
 | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
 | ![RSpec](https://img.shields.io/badge/RSpec-4B8DBA?style=for-the-badge&logo=rspec&logoColor=white) | ![Stimulus](https://img.shields.io/badge/Stimulus-EAB8C9?style=for-the-badge&logo=stimulus&logoColor=black) | ![CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
-| ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) | ![Hotwire](https://img.shields.io/badge/Hotwire-EAB8C9?style=for-the-badge&logo=hotwire&logoColor=black) | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) |
+| ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) | ![Hotwire](https://img.shields.io/badge/Hotwire-EAB8C9?style=for-the-badge&logo=hotwire&logoColor=black) | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) |
 
 <hr>
 
